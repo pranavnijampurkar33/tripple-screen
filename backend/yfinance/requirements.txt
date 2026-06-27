@@ -1,0 +1,5 @@
+yfinance>=0.2.40
+pandas>=1.4.0
+mplfinance>=0.12.9b0,<0.13
+matplotlib>=3.7,<3.10
+multitasking<0.0.11; python_version<"3.9"
